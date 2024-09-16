@@ -1,3 +1,3 @@
-## Olympic Games Big Data
+## Olympic Games Big Data / Training with PySpark
 
-Processing big data volumes about the Olympic Games using PySpark
+Processing big data volumes about the Olympic Games using PySpark.
